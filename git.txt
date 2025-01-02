@@ -1,0 +1,11 @@
+First time
+
+- git init
+- git remote add origin https://github.com/shivanshi2710/first-node-project
+
+
+next time
+ - git status (for checking status of the file)
+ - git add filename
+ - git commit -m "message"
+ - git push -u origin master (first time)/git push(always)
